@@ -1,5 +1,5 @@
 /**
- * @(#)Problem6.java
+ * @(#)Problem20.java
  *
  *
  * @author Alison Wen
